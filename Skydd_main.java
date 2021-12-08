@@ -33,7 +33,7 @@ public class Skydd_main {
        for (int i = 0; i < players.length; i++) {
 		System.out.println(players [i]);
 	}
-       
+       // hai 
 	}
 
 }
